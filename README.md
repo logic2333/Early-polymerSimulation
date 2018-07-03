@@ -12,3 +12,7 @@ These codes are too troublesome to review, so i put them here merely for recordi
 Well, this is my bachelor graduation project. The essay describes it in detail.
 
 嗯这是我的本科毕业设计。论文详细描述了它。
+
+To build the program by yourself you need Alglib, which is a numerical analysis library.
+
+要亲自build这个程序你需要下载Alglib，一个科学计算库。
